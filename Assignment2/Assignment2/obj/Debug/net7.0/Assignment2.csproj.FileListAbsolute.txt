@@ -1,0 +1,15 @@
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/bin/Debug/net7.0/Assignment2
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/bin/Debug/net7.0/Assignment2.deps.json
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/bin/Debug/net7.0/Assignment2.runtimeconfig.json
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/bin/Debug/net7.0/Assignment2.dll
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/bin/Debug/net7.0/Assignment2.pdb
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.csproj.AssemblyReference.cache
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.AssemblyInfoInputs.cache
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.AssemblyInfo.cs
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.dll
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/obj/Debug/net7.0/refint/Assignment2.dll
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.pdb
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/obj/Debug/net7.0/Assignment2.genruntimeconfig.cache
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Assignment2/Assignment2/obj/Debug/net7.0/ref/Assignment2.dll
